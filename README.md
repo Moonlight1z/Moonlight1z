@@ -13,7 +13,7 @@
 
 - :computer: здесь будет ссылка на мой сайт :>.
 <br><br>
-<h2>:diamonds: Мои стек технологий</h2>
+<h2>:diamonds: Мой стек технологий</h2>
 <div>
     <div>
         <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70"/> - ...</p>
