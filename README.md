@@ -15,20 +15,51 @@
 <br><br>
 <h2>:diamonds: Мои стек технологий</h2>
 <div>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70"/> 
-    <p>adfasdadas</p>
-  </div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width="70" height="70"/> <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="70" height="70"/> <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width="70" height="70"/> - ...</p>
+    </div>
+  <br>
+    <div>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="70" height="70"/> - ...</p>
+    </div>
 </div>
