@@ -4,17 +4,31 @@
 </div>
 <br><br>
 <h2>:maple_leaf: Обо мне</h2>
-<!--
-**Moonlight1z/Moonlight1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p>Я разработчик начинающего уровня. <br> Который занимается изучением Frontend разработки и базовому Backend (отправка, защита и получение данных на сайте).:hammer_and_wrench: </p> -->
+- :telescope: Я разработчик начинающего уровня. <br> Который занимается изучением Frontend разработки и базовому Backend (отправка, защита и получение данных на сайте). 
 
-Here are some ideas to get you started:
+- :books: Свои знания оценивю между Trainee и Junior. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap: В свободное время занимаюсь озвучкой и чтением книг.
+
+- :computer: здесь будет ссылка на мой сайт :>.
+<br><br>
+<h2>:diamonds: Мои стек технологий</h2>
+<div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70"/> 
+    <p>adfasdadas</p>
+  </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width="70" height="70"/> <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="70" height="70"/> <br>
+</div>
