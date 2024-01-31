@@ -63,7 +63,7 @@
         <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="70" height="70"/> GIT - система контроля версий. Недавно я решил всё же познакомиться с ней поближе, поскольку GIT даёт довольно сильныую возможность контроля своих проектов</p>
     </div>
 </div>
-<br><br>
+<br>
 <h2>:hearts: Актив</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Moonlight1z&theme=dark&background=000000)](https://git.io/streak-stats)
