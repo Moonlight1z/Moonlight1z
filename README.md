@@ -36,7 +36,7 @@
     </div>
   <br>
     <div>
-        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/> Bootstrap - cвободный набор инструментов для создания сайтов и веб-приложений. Неплохо разбираюсь в нём, умею его кастомить под проект или задачу. Использую если пондаобится в проекте или по заказку</p>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/> Bootstrap - cвободный набор инструментов для создания сайтов и веб-приложений. Неплохо разбираюсь в нём, умею его кастомить под проект или задачу. Использую если пондаобится в проекте или по заказу</p>
     </div>
   <br>
     <div>
