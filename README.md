@@ -1,6 +1,6 @@
 <h2 align="center">Заходи мэн, отдохни здоровье! ⚡</h2>
 <div id="header" align="center">
-  <img src="https://get.pxhere.com/photo/night-flame-fire-darkness-campfire-bonfire-geological-phenomenon-108694.jpg" width="750" height="450"/> <!-- https://i.pinimg.com/originals/90/48/33/904833acff78df55bfb620a2114b96af.jpg -->
+  <img src="https://www.funnyart.club/uploads/posts/2023-05/1682945366_funnyart-club-p-koster-v-nochi-krasivo-11.jpg" width="750" height="450"/> <!-- https://i.pinimg.com/originals/90/48/33/904833acff78df55bfb620a2114b96af.jpg    https://get.pxhere.com/photo/night-flame-fire-darkness-campfire-bonfire-geological-phenomenon-108694.jpg -->
 </div>
 <br><br>
 <h2>:maple_leaf: Обо мне</h2>
