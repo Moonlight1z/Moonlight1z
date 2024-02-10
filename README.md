@@ -52,7 +52,7 @@
     </div>
   <br>
     <div>
-        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="70" height="70"/> Laravel - это фреймворк для PHP, который предлагает множество функций, таких как маршрутизация, управление сеансами, аутентификация пользователей, работа с базами данных, шаблонизация и т.п. Я в процессе его изучения для расширения своих возможностей на PHP и спектра своих задач</p>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="70" height="70"/> Laravel - это фреймворк для PHP, который предлагает множество функций, таких как маршрутизация, управление сеансами, аутентификация пользователей, работа с базами данных, шаблонизация и т.п. Я в процессе его изучения для расширения своих возможностей на PHP и спектра своих задач</p>
     </div>
   <br>
     <div>
