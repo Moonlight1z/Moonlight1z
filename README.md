@@ -40,19 +40,19 @@
     </div>
   <br>
     <div>
-        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="70" height="70"/> SQL - это язык запросов используемый для работы с реляционными базами данных. Он позволяет выполнять операции добавления, удаления, изменения и извлечения данных из БД. Одна из основных вещей для backend части проекта, знаю всю базу SQL + безопасная передача данных</p>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="70" height="70"/> SQL - это язык запросов используемый для работы с реляционными базами данных. Он позволяет выполнять операции добавления, удаления, изменения и извлечения данных из БД. Одна из основных вещей для backend части проекта, знаю основы</p>
     </div>
   <br>
     <div>
-        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> MySQL - это открытая реляционная СУБД, которая использует SQL. MySQL поддерживает множество функций, таких как хранение данных, выполнение запросов, управление пользователями, безопасностью и т.п. Думаю связка SQL и СУБД очевидна</p>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> MySQL - это открытая реляционная СУБД, которая использует SQL. MySQL поддерживает множество функций, таких как хранение данных, выполнение запросов, управление пользователями, безопасностью и т.п. Знаю как в ней работать и управлять БД</p>
     </div>
   <br>
     <div>
-        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" height="70"/> PHP - это скриптовый язык программирования, который широко используется для разработки веб-приложений и динамических веб-сайтов. PHP обрабатывает код на сервере, генерируя HTML, который затем отправляется клиентскому браузеру. Из всех ЯП для backend я выбрал PHP, потому что мне он понравился своим синтаксисом и простотой. Делая backend в проектах, использую его постоянно</p>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" height="70"/> PHP - это скриптовый язык программирования, который широко используется для разработки веб-приложений и динамических веб-сайтов. PHP обрабатывает код на сервере, генерируя HTML, который затем отправляется клиентскому браузеру. Знаю основы</p>
     </div>
   <br>
     <div>
-        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="70" height="70"/> Laravel - это фреймворк для PHP, который предлагает множество функций, таких как маршрутизация, управление сеансами, аутентификация пользователей, работа с базами данных, шаблонизация и т.п. Я в процессе его изучения для расширения своих возможностей на PHP и спектра своих задач</p>
+        <p><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="70" height="70"/> Laravel - это фреймворк для PHP, который предлагает множество функций, таких как маршрутизация, управление сеансами, аутентификация пользователей, работа с базами данных, шаблонизация и т.п. MVC, blade, seeders и т.д. Я в процессе его изучения для расширения своих возможностей на PHP и спектра своих задач</p>
     </div>
   <br>
     <div>
