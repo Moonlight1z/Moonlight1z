@@ -11,7 +11,7 @@
 
 - :zap: В свободное время занимаюсь озвучкой и чтением книг.
 
-- :computer: Мой сайт https://plague-workshop.ru/.
+- :computer: Мой сайт https://plague-workshop.ru/
 <br><br>
 <h2>:diamonds: Мой стек технологий</h2>
 <div>
