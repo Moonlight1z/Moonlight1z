@@ -1,6 +1,6 @@
 <h2 align="center">Заходи мэн, отдохни здоровье! ⚡</h2>
 <div id="header" align="center">
-  <img src="[https://cojo.ru/wp-content/uploads/2022/12/koster-1-1.webp](https://i.ytimg.com/vi/kCdddOuXi9Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEogTShyMA8=&rs=AOn4CLCZMPtS-zL8rcAurCnAYCba38NNhA)" width="750" height="450"/> <!-- https://i.pinimg.com/originals/90/48/33/904833acff78df55bfb620a2114b96af.jpg    https://get.pxhere.com/photo/night-flame-fire-darkness-campfire-bonfire-geological-phenomenon-108694.jpg -->
+  <img src="https://i.ytimg.com/vi/kCdddOuXi9Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEogTShyMA8=&rs=AOn4CLCZMPtS-zL8rcAurCnAYCba38NNhA" width="750" height="450"/> <!-- https://i.pinimg.com/originals/90/48/33/904833acff78df55bfb620a2114b96af.jpg    https://get.pxhere.com/photo/night-flame-fire-darkness-campfire-bonfire-geological-phenomenon-108694.jpg -->
 </div>
 <br><br>
 <h2>:maple_leaf: Обо мне</h2>
