@@ -1,16 +1,97 @@
-## Hi there 👋
+<h2 align="center">Привет! 👋</h2>
 
-<!--
-**Moonlight1z/Moonlight1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>PHP / Laravel Backend Developer</h3>
+  <p>Развиваюсь в backend-разработке и создаю собственные проекты на PHP и Laravel.</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Основной стек
+
+**Backend:**
+
+* PHP 7.х - 8.x
+* Laravel 10-12
+* Eloquent ORM
+* MVC
+* CRUD
+* REST / HTTP — изучаю
+
+**Базы данных:**
+
+* SQL
+* MySQL
+* JOIN
+* GROUP BY
+* ORDER BY
+* Связи между таблицами
+
+**Инструменты:**
+
+* Git
+* GitHub
+* Composer
+* PhpStorm
+* OpenServer
+
+**Frontend:**
+
+* HTML5
+* CSS3 - SCSS
+* JavaScript
+* адаптивная вёрстка
+* Blade
+
+## 🚀 Проекты
+
+### 🎨 My Diplom — сайт для организации арт-маркетов
+
+Мой дипломный проект — веб-приложение для организации и проведения арт-маркетов.
+
+В проекте реализованы:
+
+* регистрация и авторизация пользователей;
+* личный кабинет;
+* работа с информацией об авторах;
+* публикация информации о работах;
+* добавление авторов в избранное;
+* административная часть;
+* работа с базой данных;
+* серверная бизнес-логика.
+
+🔗 **[GitHub →](https://github.com/Moonlight1z/My-diplom)**
+
+---
+
+### 💻 Portfolio New — собственный сайт-портфолио
+
+Сейчас разрабатываю новую версию собственного сайта-портфолио на **Laravel 12**.
+
+Проект использую как практическую площадку для развития backend-навыков.
+
+Работаю с:
+
+* Laravel MVC;
+* Routing;
+* Controllers;
+* Models;
+* Eloquent ORM;
+* миграциями;
+* SQL;
+* CRUD;
+* административной частью;
+* Git.
+
+Проект постепенно расширяется и используется для практики разработки реального веб-приложения.
+
+---
+
+## 📚 Сейчас изучаю
+
+* углублённую работу с Laravel;
+* PHP 
+* архитектуру backend-приложений;
+* REST API;
+* работу с существующей кодовой базой;
+* Git;
