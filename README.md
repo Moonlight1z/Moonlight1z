@@ -1,4 +1,4 @@
-<h2 align="center">Привет! 👋</h2>
+<h2 align="center">Привет! ♦️</h2>
 
 <div align="center">
   <h3>PHP / Laravel Backend Developer</h3>
