@@ -60,7 +60,7 @@
 * работа с базой данных;
 * серверная бизнес-логика.
 
-🔗 **[GitHub →](https://github.com/Moonlight1z/My-diplom)**
+🔗 **[GitHub →](https://github.com/Moonlight1z/My-diplom/tree/main)**
 
 ---
 
